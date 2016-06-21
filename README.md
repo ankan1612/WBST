@@ -1,2 +1,2 @@
-# WBT
-Weight Balanced Tree for Text Editor
+# Weight Balanced Search Tree for Text Editor
+
